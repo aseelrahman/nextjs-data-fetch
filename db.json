@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Cat Mouse",
+      "brand": "LogiTech",
+      "category": "Electronics",
+      "price": 20.99,
+      "stock": 120,
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1527814050087-3793815479db",
+      "description": "Ergonomic wireless mouse with adjustable DPI and long battery life."
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "brand": "KeyMaster",
+      "category": "Electronics",
+      "price": 79.99,
+      "stock": 60,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae",
+      "description": "RGB mechanical keyboard with blue switches and customizable lighting."
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "brand": "FastStep",
+      "category": "Footwear",
+      "price": 99.99,
+      "stock": 45,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+      "description": "Lightweight running shoes designed for comfort and performance."
+    },
+    {
+      "id": 4,
+      "name": "Smart Water Bottle",
+      "brand": "HydroTrack",
+      "category": "Fitness",
+      "price": 49.99,
+      "stock": 80,
+      "rating": 4.3,
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8",
+      "description": "Tracks your daily water intake and reminds you to stay hydrated."
+    },
+    {
+      "id": 5,
+      "name": "Noise Cancelling Headphones",
+      "brand": "SoundWave",
+      "category": "Electronics",
+      "price": 149.99,
+      "stock": 35,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+      "description": "Premium over-ear headphones with active noise cancellation and 30-hour battery life."
+    }
+  ]
+}
