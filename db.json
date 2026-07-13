@@ -55,5 +55,137 @@
       "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
       "description": "Premium over-ear headphones with active noise cancellation and 30-hour battery life."
     }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-Help",
+      "price": 18.99,
+      "publishedYear": 2018,
+      "pages": 320,
+      "rating": 4.9,
+      "stock": 25,
+      "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f",
+      "description": "A practical guide to building good habits and breaking bad ones."
+    },
+    {
+      "id": 2,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt & David Thomas",
+      "genre": "Programming",
+      "price": 42.99,
+      "publishedYear": 1999,
+      "pages": 352,
+      "rating": 4.8,
+      "stock": 15,
+      "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+      "description": "Essential software development practices for professional programmers."
+    },
+    {
+      "id": 3,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "Programming",
+      "price": 39.99,
+      "publishedYear": 2008,
+      "pages": 464,
+      "rating": 4.8,
+      "stock": 20,
+      "cover": "https://images.unsplash.com/photo-1516979187457-637abb4f9353",
+      "description": "Learn how to write clean, readable, and maintainable code."
+    },
+    {
+      "id": 4,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "price": 15.99,
+      "publishedYear": 1937,
+      "pages": 310,
+      "rating": 4.9,
+      "stock": 18,
+      "cover": "https://images.unsplash.com/photo-1495640388908-05fa85288e61",
+      "description": "Bilbo Baggins embarks on an unforgettable adventure."
+    },
+    {
+      "id": 5,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "price": 14.99,
+      "publishedYear": 1949,
+      "pages": 328,
+      "rating": 4.7,
+      "stock": 22,
+      "cover": "https://images.unsplash.com/photo-1519682337058-a94d519337bc",
+      "description": "A classic novel about surveillance and totalitarianism."
+    },
+    {
+      "id": 6,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Classic",
+      "price": 16.99,
+      "publishedYear": 1960,
+      "pages": 336,
+      "rating": 4.9,
+      "stock": 17,
+      "cover": "https://images.unsplash.com/photo-1524578271613-d550eacf6090",
+      "description": "A timeless novel about justice, compassion, and racial inequality."
+    },
+    {
+      "id": 7,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "price": 13.99,
+      "publishedYear": 1988,
+      "pages": 208,
+      "rating": 4.6,
+      "stock": 30,
+      "cover": "https://images.unsplash.com/photo-1511108690759-009324a90311",
+      "description": "A shepherd follows his dream in search of treasure."
+    },
+    {
+      "id": 8,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "genre": "Productivity",
+      "price": 21.99,
+      "publishedYear": 2016,
+      "pages": 304,
+      "rating": 4.7,
+      "stock": 19,
+      "cover": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d",
+      "description": "Strategies for focused success in a distracted world."
+    },
+    {
+      "id": 9,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Classic",
+      "price": 12.99,
+      "publishedYear": 1925,
+      "pages": 180,
+      "rating": 4.5,
+      "stock": 24,
+      "cover": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6",
+      "description": "A story of wealth, love, and the American Dream."
+    },
+    {
+      "id": 10,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "genre": "Finance",
+      "price": 19.99,
+      "publishedYear": 2020,
+      "pages": 256,
+      "rating": 4.8,
+      "stock": 21,
+      "cover": "https://images.unsplash.com/photo-1516979187457-637abb4f9353",
+      "description": "Timeless lessons about wealth, investing, and human behavior."
+    }
   ]
 }
