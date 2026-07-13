@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Wireless Mouse",
+      "name": "Wireless Cat",
       "brand": "LogiTech",
       "category": "Electronics",
       "price": 29.99,
@@ -13,7 +13,7 @@
     },
     {
       "id": 2,
-      "name": "Mechanical Keyboard",
+      "name": "Chemical tom and jerry Mouse board",
       "brand": "KeyMaster",
       "category": "Electronics",
       "price": 79.99,
@@ -24,7 +24,7 @@
     },
     {
       "id": 3,
-      "name": "Sleeping Shoes",
+      "name": "Flying Shoes",
       "brand": "FastStep",
       "category": "Footwear",
       "price": 99.99,
